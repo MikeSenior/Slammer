@@ -1,0 +1,17 @@
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\obj\Debug\Slammer.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\ClassLibrary.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\ClassLibrary.pdb
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\UnityEngine.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\Fabric.Core.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\DOTween.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\ProMouseDll.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\protobuf-net.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\UnityEngine.CrashLog.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\Mono.Security.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\MouseLibWin.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\obj\Debug\ClassLibrary.dll
+C:\Users\Mike\Desktop\Parkitect-Tiki-Hut-master\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1693946898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef41268da43b5fad70b52e81a9474257
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72ddf48caa11233da7c9d767b26d9902
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Slammer.prefab
+- Assets/Main.controller
+- Assets/Slammer0.5Merge.fbx
+- Assets/Rise.anim
+Dependencies: []
